@@ -18,17 +18,25 @@ Simply add or remove words from the word_list list to customize the game.
 - hangman_art: a module containing ascii art for various stages of the game
 
 ## Requirements
-This game requires Python 3.x to run.
+Requires Python 3.x to run.
+
+## Credits
+Created by Alexander Hazankin.
 
 ## Contact
 For any questions or comments, you can reach me at:
-[https://www.linkedin.com/in/hazankin/]
-[https://github.com/AlexanderHazankin/Hangman]
-[https://replit.com/@Hazankin/Hangman?v=1]
+
+https://www.linkedin.com/in/hazankin
+
+https://github.com/AlexanderHazankin
+
+https://replit.com/@Hazankin
 
 ## License
 This project is licensed under the MIT License.
+
 Copyright (c) 2022 Alexander Hazankin.
+
 Permission is hereby granted, free of charge.
 
 ## NOTE:
